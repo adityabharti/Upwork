@@ -1,0 +1,7 @@
+
+1)  Install the simplegui module using pip from the command prompt by entering the following:
+    python -m pip install SimpleGUICS2Pygame
+2)  Install pygame module according to your system specifications from the given link:
+    http://www.pygame.org/download.shtml
+
+3) The script should run now.
